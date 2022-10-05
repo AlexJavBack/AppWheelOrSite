@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820419569674",
+    "project_id": "appwheelorsite",
+    "storage_bucket": "appwheelorsite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820419569674:android:6eb60f64f0ca6a4be917f3",
+        "android_client_info": {
+          "package_name": "com.example.appwheelorsite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820419569674-2frluj6aqsu0km0uv4srt970flupngub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANoMva91q9aqfHO8S0iOgBKTwqENvJIVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820419569674-2frluj6aqsu0km0uv4srt970flupngub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
